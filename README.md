@@ -37,8 +37,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Academy of Contemporary Music (September 2007 - July 2009)
 
 - Diploma, Music
-- Grade
-- Other cool stuff
+- Grade: Merit
+- I was part of the video team at ACM, to record and help interview artists that came to visit, talk and perform at clinics. 
 
 #### Any other qualifications
 
@@ -46,5 +46,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Anvil Mobile Ltd** (September 2010 - April 2019)    
 *Support and Provisioning*  
+
+I was instrumental in the founding of this start-up telecommunications company. I lead on handling maintenance requests and track issues raised through the service desk ticket system. I was the first point of contact for diagnosis of problems via email, website and phone calls from clients. Responsible for quality control; I updated and maintain the IT support and internal procedures documents including the ISO 9001 certification
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Interests
+
+**Music:** I have played drums for 20 years, and still play almost every day. I play in two local bands with my friends and try to keep as active as I can in the music scene. 
+
+**Computing:** Building computers! I have built many systems over the past 5 years and I'm always happy to start on the next one. Sourcing, building, and getting everything to work correctly can sometimes be hard work but it's all very fun. 
