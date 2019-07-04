@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript (ES5, ES6, React)
 - RSpec, Jasmine
 
 #### Academy of Contemporary Music (September 2007 - July 2009)
