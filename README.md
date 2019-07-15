@@ -1,6 +1,24 @@
 ## Chris Plant
 
+<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/Ruby-101%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/CSS-67%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+## Projects
+
+| Project | Description | Time | Technologies | Links |
+|---------|-------------|------|--------------|-------|
+| Woke        | A driving trivia game for Android. Voice activated trivia game to help you stay awake whilst driving.           | 2 Weeks      | Java, Android Studio             | [Github](https://github.com/mondongos/woke-platypus)       |
+| Acebook        | Group project: A Facebook clone featuring sign up, posting statuses, posting on other people's walls and editing posts. Using agile methodologies and working in a team of six.            | 2 Weeks     | Ruby on Rails, HTML, CSS, Travis CI, Capybara, Rspec, PostgreSQL, Heroku (for deployment)              | [Github](https://github.com/dafplant/acebook-rails-amoeba-boyz), [Link to site on Heroku](https://acebook-rails-amoeba-boyz.herokuapp.com/)      |
+Bank Account Tech Test| Challenge to write a small, terminal based bank account using Javascript. Made writing the most concise and clean code possible        | 1/2 Day            | Javascript, Jasmine framework     | [Github](https://github.com/dafplant/bank-tech-test)             |    |
+|  MakersBnB       | Group project: A clone of Airbnb - users can advertise their spaces to rent, and request to rent spaces            | 5 Days     | Ruby, Rspec, Capybara, Sinatra, Datamapper, PostgreSQL             | [Github](https://github.com/dafplant/Makers-Bnb)      |
+|   |   |   |   |   |
+||||||
+|   |   |   |   |   |
 
 ## Skills
 
