@@ -43,14 +43,52 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2019 - July 2019)
 
+Regarded as Europe's #1 coding bootcamp, Makers is a 16 week programming course that enables students to become full stack developers by means of self-directed learning, object oriented programming, pair programming, TDD and Agile methodologies.
+
+##### Languages:
+
+* Ruby
+  * Ruby on Rails
+
+* Javascript
+  * JQuery
+  * React
+
+* Java
+
+##### Testing frameworks: 
+
+* Rspec
+
+* Capybara
+
+* Jasmine
+
+* JUnit 4
+
+##### Databases and management
+
+* PostgreSQL
+
+* Active Record
+
+
+##### Other: 
+
+* Version control (Git)
+
+* Continuous Integration/Continuous Deployment (Travis, Heroku, Circle CI)
+
+Our day-to-day working schedule involved 
+<!-- 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE] -->
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript (ES5, ES6, React)
-- RSpec, Jasmine
+- Test Driven Development using the frameworks RSpec, Capybara, Jasmine
 
 #### Academy of Contemporary Music (September 2007 - July 2009)
 
