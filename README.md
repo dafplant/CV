@@ -21,22 +21,15 @@ Bank Account Tech Test| Challenge to write a small, terminal based bank account 
 
 ## Skills
 
-#### This Skill
+#### Teamwork and Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+* Worked in a team on multiple projects at Makers, all using Agile methodologies. We ensured all of the team members were working to the best of their abilities and communicated constantly to make sure that we were happy with the work we were doing, and if there were any issues that we as a team could resolve. Pair programming and mobbing have been essential to projects.
 
-- Experience
-- Achievements
-- Evidence
+#### Self directed learning
 
-#### Another Skill
+For seven years before I went to study Music, I was a completely self-taught drummer. I learned everything from the basics to the most advanced techniques by reading books, watching videos and learning by ear. This has given me confidence to learn new subjects and to persist independently if necessary. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+At Makers there is an emphasis on independent, self directed learning. It is an important tool for software development when group work is not the most effective use of time. During the course I have learned good ways and make good use of independent learning to further my knowledge, and has given me confidence to learn new technologies and to quickly understand their fundimentals.
 
 ## Education
 
@@ -85,6 +78,7 @@ Our day-to-day group working schedule involved morning standups to discuss and p
 
 - Diploma, Music
 - Grade: Merit
+- Performance education that focused on drumming and also included theory (grade 8 theory achieved)
 - I was part of the video team at ACM, to record and help interview artists that came to visit, talk and perform at clinics. 
 
 
@@ -106,6 +100,6 @@ Daily tasks:
 
 ## Interests
 
-**Music:** I have played drums for 20 years, and still play almost every day. Learning to play drums has given me a dedication to completing a task, and the ability to think laterally; especially as the music I play can be in very unusual time signatures. I play in two local bands with my friends and try to keep as active as I can in the music scene. 
+**Music:** I have played drums for 20 years, and still play every day. Learning to play drums has given me a dedication to completing a task, and the ability to think laterally; especially as the music I play can be in very unusual time signatures. I play in two local bands with my friends and try to keep as active as I can in the music scene. 
 
-**Computing:** Building computers! I have built many PCs over the past 5 years and I'm always happy to start on the next one. I have always been interested in computer hardware since our first computer we had in 1993. 
+**Computing:** Building computers! I have built many PCs over the past 5 years. I have built small business PCs and large gaming PCs, and enjoy the research of which parts are the most effective for each build. I have been interested in computer hardware since our first computer we had in 1993, and have been very involved in gaming since that time too. 
