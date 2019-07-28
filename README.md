@@ -17,9 +17,7 @@ I am a junior software developer and recent graduate from Makers Academy, the pr
 | Acebook        | Group project: A Facebook clone featuring sign up, posting statuses, posting on other people's walls and editing posts. Using Agile methodologies and working in a team of six.            | 2 Weeks     | Ruby on Rails, HTML, CSS, Travis CI, Capybara, Rspec, PostgreSQL, Heroku (for deployment)              | [Github](https://github.com/dafplant/acebook-rails-amoeba-boyz), [Link to site on Heroku](https://acebook-rails-amoeba-boyz.herokuapp.com/)      |
 Bank Account Tech Test| Challenge to write a small, terminal based bank account using Javascript. Made writing the most concise and clean code possible        | 1/2 Day            | Javascript, Jasmine framework     | [Github](https://github.com/dafplant/bank-tech-test)             |    |
 |  MakersBnB       | Group project: A clone of Airbnb - users can advertise their spaces to rent, and request to rent spaces            | 5 Days     | Ruby, Rspec, Capybara, Sinatra, Datamapper, PostgreSQL             | [Github](https://github.com/dafplant/Makers-Bnb)      |
-|   |   |   |   |   |
-||||||
-|   |   |   |   |   |
+
 
 ## Skills
 
@@ -95,7 +93,15 @@ Our day-to-day group working schedule involved morning standups to discuss and p
 **Anvil Mobile Ltd** (September 2010 - April 2019)    
 *Support and Provisioning*  
 
-I was instrumental in the founding of this start-up telecommunications company. I lead on handling maintenance requests and track issues raised through the service desk ticket system. I was the first point of contact for diagnosis of problems via email, website and phone calls from clients. Responsible for quality control; I updated and maintain the IT support and internal procedures documents including the ISO 9001 certification
+I was instrumental in the founding of this start-up telecommunications company. I lead on handling maintenance requests and track issues raised through the service desk ticket system. I was the first point of contact for diagnosis of problems via email, website and phone calls from clients. Responsible for quality control; I updated and maintain the IT support and internal procedures documents including the ISO 9001 certification. 
+
+Daily tasks: 
+
+* Hardware/Software support for 4G equipment: SIMs, routers, bonding units, switches. Networking information and records pertaining to usage of SIM data.
+
+* Provisioning of SIMs on six UK and European networks
+
+* Configuring routers for orders - Setting up of VPNs, DNS, static IPs and security.
 
 
 ## Interests
