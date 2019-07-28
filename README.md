@@ -6,7 +6,8 @@
 <a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a junior software developer and recent graduate from Makers Academy, the premier software development bootcamp in Europe. I have a background in Music and Telecommunications, and I am looking for a role that enables me to be creative in a collaborative and exciting environment, and one that is challenging in which I can utilise the skills I have learned so far, and to continue to learn and solidify my knowledge of software development. 
+
 
 ## Projects
 
@@ -43,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2019 - July 2019)
 
-Regarded as Europe's #1 coding bootcamp, Makers is a 16 week programming course that enables students to become full stack developers by means of self-directed learning, object oriented programming, pair programming, TDD and Agile methodologies.
+Regarded as Europe's #1 coding bootcamp, Makers is a 16 week programming course that enables students to become full stack developers by means of self-directed learning, object oriented programming, pair programming, TDD, Agile methodologies and XP values.
 
 ##### Languages:
 
@@ -79,16 +80,8 @@ Regarded as Europe's #1 coding bootcamp, Makers is a 16 week programming course 
 
 * Continuous Integration/Continuous Deployment (Travis, Heroku, Circle CI)
 
-Our day-to-day working schedule involved 
-<!-- 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE] -->
+Our day-to-day group working schedule involved morning standups to discuss and plan out our day, then regular meetings during the day to keep track of how we've been working, and finally a retro at the end of the day. I can work well in either pair programming or mobbing with a team, depending on which style is best suited for the task at hand. 
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript (ES5, ES6, React)
-- Test Driven Development using the frameworks RSpec, Capybara, Jasmine
 
 #### Academy of Contemporary Music (September 2007 - July 2009)
 
