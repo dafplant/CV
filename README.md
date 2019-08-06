@@ -6,7 +6,7 @@
 <a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
 
 
-I am a junior software developer and recent graduate from Makers Academy, the premier software development bootcamp in Europe. I have a background in Music and Telecommunications, and I am looking for a role that enables me to be creative in a collaborative and exciting environment, and one that is challenging in which I can utilise the skills I have learned so far, and to continue to learn and solidify my knowledge of software development. 
+I am a junior software developer and recent graduate from Makers Academy, the premier software development bootcamp in Europe. I have a 10 year professional background in Telecommunications and a passion for music. I am looking for a role that enables me to be creative in a collaborative and exciting environment. I enjoy challenging projects on which I can utilise the skills I have learned so far and continue to develop my knowledge in multiple programming languages. 
 
 
 ## Projects
