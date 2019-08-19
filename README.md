@@ -30,6 +30,7 @@ Comprehensive understanding of desktop hardware, operating systems and mobile de
 * Linux			
 * Mac OS		
 * Android 
+
 Broad knowledge in 3G/4G and Windows Networking Proficient in monitoring and maintaining IT and communication systems.
 
 Expert in hardware repair and technical solutions. 
