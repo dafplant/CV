@@ -6,7 +6,11 @@
 <a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
 
 
-I am a junior software developer and recent graduate from Makers Academy, the premier software development bootcamp in Europe. I have a 10 year professional background in Telecommunications and a passion for music. I am looking for a role that enables me to be creative in a collaborative and exciting environment. I enjoy challenging projects on which I can utilise the skills I have learned so far and continue to develop my knowledge in multiple programming languages. 
+Makers Academy Graduate seeking Software Development role in a dynamic, innovative environment.
+
+Over 9 years experience in a leading telecommunications firm, developing effective processes for this highly successful start-up.
+
+Academy of Contemporary Music Alumni, specialising in drumming Confident to learn new technologies and quickly understand their fundamentals.
 
 
 ## Projects
@@ -21,15 +25,33 @@ Bank Account Tech Test| Challenge to write a small, terminal based bank account 
 
 ## Skills
 
-#### Teamwork and Communication
+Comprehensive understanding of desktop hardware, operating systems and mobile devices including:
+* Windows		
+* Linux			
+* Mac OS		
+* Android 
+Broad knowledge in 3G/4G and Windows Networking Proficient in monitoring and maintaining IT and communication systems.
 
-* Worked in a team on multiple projects at Makers, all using Agile methodologies. We ensured all of the team members were working to the best of their abilities and communicated constantly to make sure that we were happy with the work we were doing, and if there were any issues that we as a team could resolve. Pair programming and mobbing have been essential to projects.
+Expert in hardware repair and technical solutions. 
 
-#### Self directed learning
+Experienced Client Account Manager; configuring telecommunications hardware, setting up mobile and desktop phones and monitoring data usage and billing.
 
-For seven years before I went to study Music, I was a completely self-taught drummer. I learned everything from the basics to the most advanced techniques by reading books, watching videos and learning by ear. This has given me confidence to learn new subjects and to persist independently if necessary. 
+## STRENGTHS 
 
-At Makers there is an emphasis on independent, self directed learning. It is an important tool for software development when group work is not the most effective use of time. During the course I have learned good ways and make good use of independent learning to further my knowledge, and has given me confidence to learn new technologies and to quickly understand their fundimentals.
+### Interpersonal Skills
+I have been commended for my calming influence in a team. Collaborative working and Agile methodologies were essential for the successful delivery of my final project at Makers. Whilst creating a speech recognition game, I helped ensure team members were working to the best of their abilities by remaining focused and  communicating constantly. Issues such as enabling the speech recognition engine to understand voice input were challenges. This example was resolved by combining some team members’ advanced knowledge in the Dialogflow API with others’ knowledge of Java. Pair programming and mobbing were essential to all of the Makers projects’ success. I enjoy this way of working. 
+
+### Logical Thinking 
+I create storyboards to plan out work. When I was required to re-create Facebook using Ruby on Rails,  I structured the order and layout of each page, which links lead to where and the flow of the whole site before I started to make it. This is a typical way of working for me.   
+
+### Patience 
+The coding tasks set in the self guided learning part of Makers’ course were extremely challenging and required an extensive process of trial and error. However, I was successful at completing the module. I am tenacious and driven to find solutions.  
+
+### Curiosity 
+After using text editors for all of my coding, I was curious about how they work and what goes in to certain features such as syntax highlighting.  I have now started to make my own text editor so that I can fully understand what goes in to making one. 
+
+### Ambition 
+I have a thirst for knowledge. I love to experience new things, learn new skills and travel the world. I want to contribute my strengths to an organisation that will invest in my professional development and support me to becoming a Senior Software Developer, leading a team of people to create an innovative product.
 
 ## Education
 
@@ -47,6 +69,11 @@ Regarded as Europe's #1 coding bootcamp, Makers is a 16 week programming course 
   * React
 
 * Java
+
+* HTML
+
+* CSS
+  * Bootstrap
 
 ##### Testing frameworks: 
 
