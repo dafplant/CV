@@ -23,7 +23,6 @@ Confident to learn new technologies and to quickly understand their fundamentals
 |---------|-------------|------|--------------|-------|
 | Woke        | A driving trivia game for Android. Voice activated trivia game to help you stay awake whilst driving. Working in a team of four, with daily standups, retros and Agile processes.          | 2 Weeks      | Java, Android Studio, JUnit 4             | [Github](https://github.com/mondongos/woke-platypus)       |
 | Acebook        | Group project: A Facebook clone featuring sign up, posting statuses, posting on other people's walls and editing posts. Using Agile methodologies and working in a team of six.            | 2 Weeks     | Ruby on Rails, HTML, CSS, Travis CI, Capybara, Rspec, PostgreSQL, Heroku (for deployment)              | [Github](https://github.com/dafplant/acebook-rails-amoeba-boyz), [Link to site on Heroku](https://acebook-rails-amoeba-boyz.herokuapp.com/)      |
-Bank Account Tech Test| Challenge to write a small, terminal based bank account using Javascript. Made writing the most concise and clean code possible        | 1/2 Day            | Javascript, Jasmine framework     | [Github](https://github.com/dafplant/bank-tech-test)             |    |
 |  MakersBnB       | Group project: A clone of Airbnb - users can advertise their spaces to rent, and request to rent spaces            | 5 Days     | Ruby, Rspec, Capybara, Sinatra, Datamapper, PostgreSQL             | [Github](https://github.com/dafplant/Makers-Bnb)      |
 
 
@@ -116,13 +115,10 @@ Our day-to-day group working schedule involved morning standups to discuss and p
 
 ## Experience
 
-**Deloitte** (December 2019 - Present)
+**Deloitte** (December 2019 - Present)   
+**Software Engineer - Cloud Engineering**  
 
-*Software Engineer - Cloud Engineering*
-
-Consultant on front and back end of Jaguar Land Rover and BMW's eCommerce platforms.
-
-Using Javascript, Vue, PHP & React to improve functionality and implement new features for the client's platforms.
+Consultant on front and back end of Jaguar Land Rover and BMW's eCommerce platforms. Using Javascript, Vue, PHP & React to improve functionality and implement new features for the client's platforms.
 
 Utilising cloud services with AWS, and DevOps practices using Terraform and Ansible to run deployments on a daily basis.
 
@@ -139,7 +135,7 @@ Experience of using the following technologies while at Deloitte:
 * PHP
 
 **Anvil Mobile Ltd** (September 2010 - April 2019)    
-*Support and Provisioning*  
+**Support and Provisioning**
 
 I was instrumental in the founding of this start-up telecommunications company. I lead on handling maintenance requests and track issues raised through the service desk ticket system. I was the first point of contact for diagnosis of problems via email, website and phone calls from clients. Responsible for quality control; I updated and maintain the IT support and internal procedures documents including the ISO 9001 certification. 
 
