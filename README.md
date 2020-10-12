@@ -1,11 +1,5 @@
 ## Chris Plant
 
-<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/Ruby-101%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/HTML-77%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/CSS-67%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
-
-
 Deloitte Software Engineer seeking software development role in a dynamic, innovative environment.
 
 One year experience as a Deloitte consultant on software development for BMW and Jaguar Land Rover's new online eCommerce platforms.
