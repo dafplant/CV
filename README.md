@@ -6,11 +6,15 @@
 <a href="https://sourcerer.io/dafplant"><img src="https://img.shields.io/badge/JavaScript-52%20commits-orange.svg" alt=""></a>
 
 
-Makers Academy Graduate seeking Software Development role in a dynamic, innovative environment.
+Deloitte Software Engineer seeking software development role in a dynamic, innovative environment.
 
-Over 9 years experience in a leading telecommunications firm, developing effective processes for this highly successful start-up.
+One year experience as a Deloitte consultant on software development for BMW and Jaguar Land Rover's new online eCommerce platforms.
 
-Academy of Contemporary Music Alumni, specialising in drumming Confident to learn new technologies and quickly understand their fundamentals.
+Makers Academy graduate 2019
+
+Nine years experience in a leading telecommunications firm, developing effective processes for a highly successful start-up.
+
+Confident to learn new technologies and to quickly understand their fundamentals
 
 
 ## Projects
@@ -111,6 +115,27 @@ Our day-to-day group working schedule involved morning standups to discuss and p
 
 
 ## Experience
+
+**Deloitte** (December 2019 - Present)
+*Software Engineer - Cloud Engineering*
+
+Consultant on front and back end of Jaguar Land Rover and BMW's eCommerce platforms.
+
+Using Javascript, Vue, PHP & React to improve functionality and implement new features for the client's platforms.
+
+Utilising cloud services with AWS, and DevOps practices using Terraform and Ansible to run deployments on a daily basis.
+
+Working as part of a multidisciplinary, Agile team across multiple countries.
+
+Experience of using the following technologies while at Deloitte:
+* Javascript
+* CSS/SASS
+* React
+* Vue
+* AWS (Lambda, EC2, S3, RDS, DynamoDB, SQS, SNS)
+* Docker
+* Magento
+* PHP
 
 **Anvil Mobile Ltd** (September 2010 - April 2019)    
 *Support and Provisioning*  
