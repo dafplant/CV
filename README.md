@@ -117,6 +117,7 @@ Our day-to-day group working schedule involved morning standups to discuss and p
 ## Experience
 
 **Deloitte** (December 2019 - Present)
+
 *Software Engineer - Cloud Engineering*
 
 Consultant on front and back end of Jaguar Land Rover and BMW's eCommerce platforms.
